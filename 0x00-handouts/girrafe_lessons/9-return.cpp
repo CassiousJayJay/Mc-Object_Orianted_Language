@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+
 
 double cube(double num){
     return num * num * num;
@@ -8,5 +8,7 @@ double cube(double num){
 
 int main(){
 
-
+    double answer = cube(2.3);
+    std::
+    return 0;
 }
